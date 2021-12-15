@@ -1,9 +1,11 @@
-<h1>Hi there, I’m Upeksha Herath.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1><br>
-- 👀 Interested in <b>data science, web development </b>stuff.<br>
-- 🌱 I’m currently learning at univercity of Moratuwa as a IT undergraduate.<br>
-- 💞️ I’m looking to collaborate with web developers and also with the data scientists.<br><br>
+<h1>Hi there, I’m Upeksha Herath.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <pre>
-  📫 How to reach me;
+👀 Interested in <b>data science, web development </b>stuff.
+🌱 I’m currently learning at univercity of Moratuwa as a IT undergraduate.
+💞️ I’m looking to collaborate with web developers and also with the data scientists.
+</pre>
+<pre>
+📫 How to reach me;
       mobile / whatsap no.  ==> 077-3128452 
       email ==> upekshadilshan000@gmail.com 
 </pre>
