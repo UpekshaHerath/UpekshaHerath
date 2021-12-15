@@ -1,7 +1,7 @@
 <h1>Hi there, I’m Upeksha Herath.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <pre>
 👀 Interested in <b>data science, web development </b>stuff.
-🌱 I’m currently learning at univercity of Moratuwa as a IT undergraduate.
+🌱 I’m currently learning at <b>Univercity of Moratuwa, Sri Lanka</b> as a IT undergraduate.
 💞️ I’m looking to collaborate with web developers and also with the data scientists.
 </pre>
 <pre>
