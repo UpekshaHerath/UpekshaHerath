@@ -5,7 +5,8 @@
 - 📫 How to reach me;
       mobile / whatsap no.  ==> 077-3128452
       email ==> upekshadilshan000@gmail.com
-      
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!---
 Upeksha0/Upeksha0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
