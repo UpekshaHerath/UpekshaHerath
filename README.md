@@ -7,6 +7,7 @@
       email ==> upekshadilshan000@gmail.com
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upeksha Herath&theme=Theme name" />
 
 <!---
 Upeksha0/Upeksha0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
