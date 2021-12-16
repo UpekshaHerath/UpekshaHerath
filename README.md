@@ -7,7 +7,7 @@
 <pre>
 📫 How to reach me;
       mobile / whatsap no.  ==> 077-3128452 
-      email ==> upekshadilshan000@gmail.com 
+      email                 ==> upekshadilshan000@gmail.com 
 </pre>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UpekshaHerath)](https://github.com/anuraghazra/github-readme-stats)
