@@ -2,7 +2,7 @@
 <pre>
 👀 Interested in <b>data science, web development </b>stuff.
 🌱 I’m currently learning at <b>Univercity of Moratuwa, Sri Lanka</b> as a IT undergraduate.
-💞️ I’m looking to collaborate with web developers and also with the data scientists.
+💞️ I’m looking to collaborate with web developers and also with data scientists.
 </pre>
 <pre>
 📫 How to reach me;
