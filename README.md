@@ -29,7 +29,7 @@
 </p>
 
 <h3>Top Languages</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashan-tharaka&theme=tokyonight&show_icons=true" alt="ashan-tharaka" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpekshaHerath&theme=tokyonight&show_icons=true" alt="ashan-tharaka" />
 
                                                                                                                                         
 
