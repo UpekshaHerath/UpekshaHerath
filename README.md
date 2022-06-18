@@ -9,7 +9,7 @@
       mobile / whatsap no.  ==> 077-3128452 
       email                 ==> upekshadilshan000@gmail.com 
 </pre>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UpekshaHerath)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>
 <img  alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img  alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -28,7 +28,8 @@
 <img  alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />   
 </p>
 
-
+<h3>Top Languages</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashan-tharaka&theme=tokyonight&show_icons=true" alt="ashan-tharaka" />
 
                                                                                                                                         
 
