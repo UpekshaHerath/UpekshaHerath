@@ -16,7 +16,6 @@
 <img  alt="java"  width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
 <img alt="c#" width="40px" src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-thumbnail.png"/>
 <img alt="c" width="40px" src="https://img.pngio.com/letter-c-icon-free-download-as-png-and-ico-icon-easy-c-blue-png-256_256.png"/>
-<img  alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img  alt="AngularJS" width="40px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40px" />
 <img  alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
