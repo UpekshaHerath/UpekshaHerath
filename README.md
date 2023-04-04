@@ -28,9 +28,12 @@
 <img  alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />   
 </p>
 
-<h3>Top Languages</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpekshaHerath&theme=tokyonight&show_icons=true" alt="ashan-tharaka" />
+<b>My GitHub Stats</b>
 
+<a href="https://github.com/UpekshaHerath"><img src="https://github-readme-stats.vercel.app/api?username=UpekshaHerath&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hansajayathilaka's GitHub stats" /></a>
+
+<h3>Top Languages</h3>
+<a href="https://github.com/UpekshaHerath" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpekshaHerath&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
                                                                                                                                         
 
 <!---
