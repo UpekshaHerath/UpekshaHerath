@@ -1,8 +1,15 @@
 <h1>Hi there, I’m Upeksha Herath.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"></h1>
 <pre>
+A passionate, enthusiastic, and skilled undergraduate who is committed to working smart to achieve goals 
+and willing to take on any challenge. Moreover, a responsible team player with solid and friendly leadership 
+qualities and a good team spirit who can adapt and focus on any productive targets, seeking an opportunity 
+as a software engineer intern to apply and explore existing and emerging technologies in the field of 
+Information Technology.
+</pre>
+<pre>
 👀 Interested in <b>data science, web development </b>stuff.
 🌱 I’m currently learning at <b>Univercity of Moratuwa, Sri Lanka</b> as a IT undergraduate.
-💞️ I’m looking to collaborate with web developers and also with data scientists.
+💞️ I’m looking to collaborate with web and mobile developers and also with data scientists.
 </pre>
 <pre>
 📫 How to reach me;
