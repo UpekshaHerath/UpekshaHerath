@@ -7,7 +7,7 @@
 <pre>
 📫 How to reach me;
       mobile / whatsap no.  ==> 077-3128452 
-      email                 ==> upekshadilshan000@gmail.com 
+      email                 ==> upekshah.official@gmail.com
 </pre>
 
 <p>
