@@ -41,6 +41,16 @@ Information Technology.
 
 <h3>Top Languages</h3>
 <a href="https://github.com/UpekshaHerath" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpekshaHerath&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## My Weapons 🌟
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayankod&theme=react&langs_count=8)](https://github.com/gayankod/github-readme-stats) -->
+ <a href="https://github.com/UpekshaHerath/github-readme-stats"><img alt="UpekshaHerath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpekshaHerath&langs_count=8&count_private=true&layout=compact&theme=react" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br>
+
                                                                                                                                         
 
 <!---
