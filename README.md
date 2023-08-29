@@ -1,4 +1,5 @@
 <h1>Hi there, I’m Upeksha Herath.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"></h1>
+
 <pre>
 A passionate, enthusiastic, and skilled undergraduate who is committed to working smart to achieve goals 
 and willing to take on any challenge. Moreover, a responsible team player with solid and friendly leadership 
@@ -6,11 +7,13 @@ qualities and a good team spirit who can adapt and focus on any productive targe
 as a software engineer intern to apply and explore existing and emerging technologies in the field of 
 Information Technology.
 </pre>
+
 <pre>
 👀 Interested in <b>data science, web development </b>stuff.
 🌱 I’m currently learning at <b>Univercity of Moratuwa, Sri Lanka</b> as a IT undergraduate.
 💞️ I’m looking to collaborate with web and mobile developers and also with data scientists.
 </pre>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966 "/>
 <pre>
 📫 How to reach me;
       mobile / Whatsapp no.  ==> 077-3128452 
