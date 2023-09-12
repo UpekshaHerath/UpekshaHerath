@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=UpekshaHerath)
 <div align="center">
   <img height="200" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="MasterHead"> 
       <!-- <img alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966 "/> -->
@@ -28,7 +29,7 @@ Information Technology.
 
 
 
-<a href="https://github.com/UpekshaHerath"><img src="https://github-readme-stats.vercel.app/api?username=UpekshaHerath&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hansajayathilaka's GitHub stats" /></a>
+<a href="https://github.com/UpekshaHerath"><img src="https://github-readme-stats.vercel.app/api?username=UpekshaHerath&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="upekshaHerath's GitHub stats" /></a>
 <hr>
 <p align="center">
       <img  alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
