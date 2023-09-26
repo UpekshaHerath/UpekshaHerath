@@ -4,6 +4,9 @@
       <!-- <img alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966 "/> -->
 </div>
 <h1 align="center">Hi there, I’m Upeksha Herath.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=21&color=00EBF7&width=550&lines=Passionate%2C+Enthusiastic+and+Skilled+Undergraduate;Creative%2C+Smart+and+Easy-going+Individual;Responsible+and+Committed+Team+Player"></a>
+</p>
 
 <pre align="center">
 A passionate, enthusiastic, and skilled undergraduate who is committed to working smart to achieve goals 
