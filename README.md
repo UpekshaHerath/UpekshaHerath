@@ -5,6 +5,9 @@
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=21&color=00EBF7&width=550&lines=Passionate%2C+Enthusiastic+and+Skilled+Undergraduate;Creative%2C+Smart+and+Easy-going+Individual;Responsible+and+Committed+Team+Player"></a>
 
+<div align="center">
+    <a href="#"><img width="25%" height="auto" src="https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif" "/></a>
+</div>
 
 <pre align="center">
 A passionate, enthusiastic, and skilled undergraduate who is committed to working smart to achieve goals 
@@ -23,11 +26,14 @@ Information Technology.
 <pre>
 📫 How to reach me;
       mobile / Whatsapp no.  ==> 077-3128452 
-      email                 ==> upekshah.official@gmail.com
+      email                  ==> upekshah.official@gmail.com
 </pre>
 
+## Connect with me:
+<p align="left">
 
-
+<a href = "https://www.linkedin.com/in/upeksha-herath-b82399215/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://medium.com/@upekshadilshan000"><img src="https://img.icons8.com/fluent/48/000000/medium-logo.png"/></a>
 
 
 <a href="https://github.com/UpekshaHerath"><img src="https://github-readme-stats.vercel.app/api?username=UpekshaHerath&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="upekshaHerath's GitHub stats" /></a>
