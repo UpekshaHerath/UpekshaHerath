@@ -1,4 +1,4 @@
-name: main flow
+name: snake animation
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
