@@ -18,6 +18,12 @@ as a software engineer intern to apply and explore existing and emerging technol
 Information Technology.
 </pre>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
 <pre>
 👀 Interested in <b>data science, web development </b>stuff.
 🌱 I’m currently learning at <b>Univercity of Moratuwa, Sri Lanka</b> as a IT undergraduate.
@@ -95,11 +101,3 @@ Information Technology.
 <a href="https://github.com/UpekshaHerath" align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpekshaHerath&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />                       
 </a> 
 <a href="https://github.com/UpekshaHerath/github-readme-stats"><img alt="UpekshaHerath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpekshaHerath&langs_count=8&count_private=true&layout=compact&theme=react" /></a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
