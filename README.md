@@ -96,4 +96,10 @@ Information Technology.
 </a> 
 <a href="https://github.com/UpekshaHerath/github-readme-stats"><img alt="UpekshaHerath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpekshaHerath&langs_count=8&count_private=true&layout=compact&theme=react" /></a>
 
- ![Snake animation](https://github.com/UpekshaHerath/UpekshaHerath/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
