@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I’m Upeksha Herath.👋</h1>
 
 <div align="center">
-  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 75px></picture>
+  <picture><img src="https://github.com/user-attachments/assets/ec2eaaf2-38c8-4fa3-b57b-22b23d837948" width=75px /></picture>
 </div>
 
 <div id="user-content-toc">
