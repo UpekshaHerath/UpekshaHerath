@@ -1,7 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=UpekshaHerath)
 
 <h1 align="center">Hi there, I’m Upeksha Herath.👋</h1>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=21&color=00EBF7&width=550&lines=Passionate%2C+Enthusiastic+and+Skilled+Undergraduate;Creative%2C+Smart+and+Easy-going+Individual;Responsible+and+Committed+Team+Player"></a>
+
+<div align="center">
+      <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 75px></picture>
+</div>
+
+<div align="center">
+      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=21&color=00EBF7&width=550&lines=Passionate%2C+Enthusiastic+and+Skilled+Undergraduate;Creative%2C+Smart+and+Easy-going+Individual;Responsible+and+Committed+Team+Player"></a>
+</div>
+
 <pre align="center">
 A passionate, enthusiastic, and skilled undergraduate who is committed to working smart to achieve goals 
 and willing to take on any challenge. Moreover, a responsible team player with solid and friendly leadership 
